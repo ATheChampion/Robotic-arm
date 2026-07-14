@@ -1,1 +1,6 @@
+*.bak
+*-backups/
+_autosave-*
 
+*.lck
+*.kicad_prl
