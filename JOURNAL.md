@@ -9,7 +9,7 @@
 ## 15/07/26
 ### Servo selection
 - I decided on 5 axes, having the base and shoulder servos being the Feetech SCS215 due to its 19kg.cm torque, the elbow and wrist pitch servos being the Feetech SCS15 with 17kg.cm torque, and the wrist roll servo being the Feetech SCS0009.
-- Since all these servos are smart serial servos they are able to have the wires connect into the servos, making a daisy-chain of wires, and causing the arm to have a cleaner look.
+- Since all these servos are smart serial servos they are able to have the wires connect into the servos, making a daisy-chain of wires, which will result in the arm having a cleaner look.
 
 ### Time: ~3 hours
 
@@ -20,3 +20,26 @@
 <img width="1080" height="395" alt="Screenshot_2026-07-28-18-23-27-891-edit_com android chrome" src="https://github.com/user-attachments/assets/54558ed3-1d97-45fe-8b7b-6aaa1817a46f" />
 
 ### Time: 1.5 hours
+
+## 26/07/26
+### CAD setup
+- As this was my first time using CAD I took some time to learn how it worked and the basic controls.
+- To begin modeling the robotic arm I imported the required servos into Onshape from Grabcad, however, some of the dimensions on the Feetech SCS215 were not accurate.
+- I had to manually edit the CAD model to make it accurate but I was still unsure if the new model was correct because of the lack of information on the servo horn's dimensions.
+
+### Time: ~2.5 hours
+
+## 27/07/26
+### Switching servos
+- Because having a modified servo wasn't ideal and might ruin the project later on, I made a decision to replace the Feetech SCS215s and the Feetech SCS15s with the Feetech STS3215 because it had an accurate CAD model and included brackets which I would have had to make later on.
+- The Feetech STS3215 is the same size and weight as the SCS215 but uses a magnetic encoder instead of a potentiometer which means that the servo will not degrade over time.
+- I also replaced the Feetech SCS15 because the STS3215 was thinner and lighter with a greater torque.
+<img width="756" height="533" alt="image" src="https://github.com/user-attachments/assets/064c78cb-8367-4ef4-95ad-d0c97623476c" />
+
+### Time: ~1.5 hours
+
+### Starting modeling
+- I modeled the main base mount with a rectangular base and cone frustums layered above.
+- The angled cutout on top of the frustrum ended up taking the longest time to make.
+<img width="532" height="603" alt="image" src="https://github.com/user-attachments/assets/47badb9a-eb03-4bb2-a0bb-5dceaa01629e" />
+
