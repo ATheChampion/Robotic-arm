@@ -43,3 +43,8 @@
 - The angled cutout on top of the frustrum ended up taking the longest time to make.
 <img width="532" height="603" alt="image" src="https://github.com/user-attachments/assets/47badb9a-eb03-4bb2-a0bb-5dceaa01629e" />
 
+### Time: 1 hour
+
+## 28/07/26
+### Parallel linkage
+-
