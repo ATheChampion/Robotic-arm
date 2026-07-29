@@ -47,4 +47,13 @@
 
 ## 28/07/26
 ### Parallel linkage
--
+- Created a small linkage mechanism to learn how the revolute mate feature worked and to help me understand how parallel linkage would work in my arm.
+<img width="1242" height="522" alt="image" src="https://github.com/user-attachments/assets/f7b8af0a-c3af-40c2-9cc3-f2aa60162f05" />
+
+### Time: 1 hour
+
+- Created a prototype to visualize how the robotic arm would have its joints controlled from the base.
+- Having the servos in the base would mean a lighter arm which would reduce chance of servos not being strong enough and increase the weight it can lift, important for a heavy 3d printing nozzle.
+<img width="512" height="314" alt="image" src="https://github.com/user-attachments/assets/054c53db-2c7b-4c45-b025-60349687bcfb" />
+
+### Time: ~5 hours
