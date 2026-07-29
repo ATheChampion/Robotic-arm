@@ -57,3 +57,11 @@
 <img width="512" height="314" alt="image" src="https://github.com/user-attachments/assets/054c53db-2c7b-4c45-b025-60349687bcfb" />
 
 ### Time: ~5 hours
+
+## 29/07/26
+### Refining prototype
+- Since the system to keep the end effector always parallel to the ground was not working I had to modify some dimensions in the prototype.
+- This led to all the revolute mates having an error, so I had to tediously reapply all joint mates.
+- It still didn't work so I had to change even more and reapply all mates again.
+
+### Time: 2 hours
