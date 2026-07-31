@@ -65,3 +65,21 @@
 - It still didn't work so I had to change even more and reapply all mates again.
 
 ### Time: 2 hours
+
+## 30/07/26
+### Experimental testing
+- Created CAD models for different things where the lengths are actually reflective of what the real arm might have e.g. link connectors with correct sized screw holes.
+- Created a prototype for remotely controlling the end effector (move it up and down) instead of just keeping it parallel to the ground.
+
+### Time: 3 hours
+
+## 30/07/26
+### Designing the arm
+- Started creating the CAD model for the final version of the arm.
+- Needed to find different screws for different things like M3 screws to connect to the servo, and M4 shoulder screws as a pivot between 2 bars in the linkage mechanism.
+- Had to factor in many different things when selecting screws like the type of steel, head length, diameter and cost.
+<img width="933" height="602" alt="image" src="https://github.com/user-attachments/assets/1df54e81-2062-4e2f-98fa-8763c3088a8d" />
+
+### Time: ~5 hours
+
+
