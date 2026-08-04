@@ -11,7 +11,7 @@
 - I decided on 5 axes, having the base and shoulder servos being the Feetech SCS215 due to its 19kg.cm torque, the elbow and wrist pitch servos being the Feetech SCS15 with 17kg.cm torque, and the wrist roll servo being the Feetech SCS0009.
 - Since all these servos are smart serial servos they are able to have the wires connect into the servos, making a daisy-chain of wires, which will result in the arm having a cleaner look.
 
-### Time: ~3 hours
+### Time: ~2 hours
 
 ## 18/07/26
 ### Rough design
